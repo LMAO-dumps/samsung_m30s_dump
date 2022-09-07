@@ -1,0 +1,7 @@
+6
+AmazonVideo_SWA.apk
+Dailyhunt.apk
+LinkedIn_SamsungStub_Deletable.apk
+SamsungMax.apk
+Snapchat.apk
+Spotify.apk

@@ -1,0 +1,2 @@
+/product/app/YandexSearchforAndroid11/YandexSearchforAndroid11.apk
+/product/priv-app/appcloud_oobe_samsungGlobal-release_V4.0.0.5/appcloud_oobe_samsungGlobal-release_V4.0.0.5.apk
